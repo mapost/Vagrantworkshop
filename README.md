@@ -13,14 +13,9 @@ The Vagrant Workshops project is intended for effectively demonstrating Vagrant'
 
 | Workshop   | Presentation Deck  | Exercises  | Workshop Type Var   |
 |---|---|---|---|
-| **Vagrant Workshop** <br> focused on Vagrant install | [Deck](./decks/setup_a_home_lab.pdf) | [Exercises](./exercises/ansible_rhel)  | `workshop_type: install`  |
+| **Vagrant Workshop** <br> focused on Vagrant install | [Deck](./decks/setup_a_home_lab.pdf) | [Exercises](./exercises/ansible_f5)  | `workshop_type: install`  |
 
 
-90 minute abbreviated versions:
-
-| Workshop   | Presentation Deck  | Exercises  | Workshop Type Var   |
-|---|---|---|---|
-| **Vagrant Workshop** <br> focused on Vagrant | [Deck](./decks/ansible_rhel_90.pdf) | [Exercises](./exercises/ansible_rhel_90)  | `workshop_type: rhel_90`  |
 
 
 
