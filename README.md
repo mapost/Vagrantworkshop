@@ -1,6 +1,6 @@
 # VagrantWorkshops
 
-The Vagrant Workshops project is intended for effectively demonstrating Ansible's capabilities through instructor-led workshops or self-paced exercises.
+The Vagrant Workshops project is intended for effectively demonstrating Vagrant's capabilities through instructor-led workshops or self-paced exercises.
 
 # Website
 
@@ -39,4 +39,4 @@ The Vagrant Workshops project is intended for effectively demonstrating Ansible'
  - [Release Process](docs/release.md)
 
 ---
-![More about me](images/profile.jpg)
+![More about me](images/p.jpg)
