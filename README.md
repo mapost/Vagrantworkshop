@@ -13,7 +13,7 @@ The Vagrant Workshops project is intended for effectively demonstrating Vagrant'
 
 | Workshop   | Presentation Deck  | Exercises  | Workshop Type Var   |
 |---|---|---|---|
-| **Vagrant Workshop** <br> focused on Vagrant install | [Deck](./decks/setup_a_home_lab.pdf) | [Exercises](./exercises/ansible_f5)  | `workshop_type: install`  |
+| **Vagrant Workshop** <br> focused on Understanding Vagrant | [Deck](./decks/Understanding_Vagrant.pdf) | [Exercises](./exercises/ansible_)  | `workshop_type: install`  |
 
 
 
